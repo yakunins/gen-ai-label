@@ -8,8 +8,12 @@ Not a standard, but recommendation.
 |99%+ made by human|90%+|50%+|Mostly done by Generative AI|
 |Meaning:<br />Non-GMO|<br />GMO Free|<br />Organic|<br />GMO| 
 
-First three of these labels made by human. Random lines in GAI logo was made mostly by Generative AI. This efectively makes this project labled as "GAI Free"
+Explanation:  
+1. First three of these labels made by human. 
+2. Random lines in GAI label was made mostly by Generative AI.
+3. 75% made by human, so the project is labeled as ***GAI Free***
 
+———————————  
 <img src="png/gai-free-label.png" width="64" alt="gai gree" />
   
   
