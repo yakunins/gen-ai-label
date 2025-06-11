@@ -15,5 +15,5 @@ Explanation:
 2. Random lines in GAI label was made mostly by Generative AI.
 3. Effectively, 75% of project was made by human, so the project is labeled as **GAI Free**.
 
-�����������  
+————————  
 <img src="png/gai-free-label.png" width="128" alt="gai gree" />
