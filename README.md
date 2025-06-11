@@ -1,9 +1,8 @@
 # Generative AI Labels
 
-Project mission is to educate user to help build awareness about GAI products and their impact on us.  
-Everyone deserves an informed choice about whether or not to consume AI-generated product.  
-There's no proven method to detect share of GAI participation in project.  
-Labeling relies completely on author's **honesty and conscientiousness**.
+Project mission is to help build awareness about GAI products and their impact. Everyone deserves an informed choice about whether or not to consume AI-generated product.
+
+Labeling relies completely on author's **honesty and conscientiousness**, as of there's no proven method to detect share of GAI participation in project.
 
 | Non-GAI<br /><br /><img src="png/non-gai-label.png" width="128" alt="non gai" /> | GAI Free<br /><br /><img src="png/gai-free-label.png" width="128" alt="gai gree" /> | Humanic<br /><br /><img src="png/certified-humanic-label.png" width="128" alt="certified humanic" /> | GAI<br /><br /><img src="png/gai-label-150.png" width="128" alt="generative ai" /> |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
