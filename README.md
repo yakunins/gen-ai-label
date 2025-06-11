@@ -13,7 +13,7 @@ Explanation:
 
 1. First three of these labels made by human.
 2. Random lines in GAI label was made mostly by Generative AI.
-3. Effectively, 75% of project was made by human, so the project is labeled as **GAI Free**.
+3. Effectively, about 95% of project was made by sole human, so the project is labeled as **GAI Free**.
 
 ————————  
 <img src="png/gai-free-label.png" width="128" alt="gai gree" />
