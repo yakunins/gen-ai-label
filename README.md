@@ -1,6 +1,6 @@
 # Generative AI Labels
 
-Project mission is to help build awareness about GAI (jee-ay-eye, dʒiː-eɪ-aɪ) products and their impact. Everyone deserves an informed choice about whether or not to consume AI-generated product.
+Project mission is to help build awareness about GAI (jee-ay-eye) products and their impact. Everyone deserves an informed choice about whether or not to consume AI-generated product.
 
 Labeling relies completely on author's **honesty and conscientiousness**, as of there's no proven method to detect share of GAI participation in project.
 
@@ -15,7 +15,7 @@ Explanation:
 2. Random lines in GAI label was made mostly by Generative AI.
 3. Effectively, about 95% of project was made by sole human, so the project is labeled as **GAI Free**.
 
-Why GAI, not Gen-AI? [See usage stats.](gai-abbreviatoon-usage-probability.md)
+Why GAI, not Gen-AI? [See usage estimates.](gai-abbreviation-usage-probability.md)
 
 ————————  
 <img src="png/gai-free-label.png" width="128" alt="gai gree" />
